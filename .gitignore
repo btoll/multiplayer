@@ -1,0 +1,7 @@
+multiplayer
+bin/
+*.[oa]
+*.out
+*~
+*.log
+
